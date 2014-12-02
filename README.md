@@ -1,7 +1,7 @@
-JPG- Node.js Java Properties Generator From Excel (XLSX)
+NJPG- Node.js Java Properties Generator From Excel (XLSX)
 ========================
 
-JPG is an application that reads a excel file and generates a output directory with properties files for Java applications.
+NJPG is an application that reads a excel file and generates a output directory with properties files for Java applications.
 
 ###Prerequisites:
 
@@ -20,6 +20,6 @@ $ npm install config
 
 ###Running LRG:
 ```sh
-$ node jpg
+$ node njpg
 ```
 
